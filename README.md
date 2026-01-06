@@ -5,7 +5,7 @@
 - Experienced in Python and R for data analysis.
 - Proficient in C++ for competitive programming(Leetcode & Codecheff).
 - Solid understanding of Object-Oriented Programming (OOPs) in both Java and C++.
-- Solved 600+ DSA questions on(Leetcode & GeeksForGeeks)
+- Solved 700+ DSA questions on(Leetcode & GeeksForGeeks)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://x.com/abhijeetkibr29
 - 😄 Pronouns: programmer_abhi
