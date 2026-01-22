@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![](https://leetcard.jacoblin.cool/abhijeet_kishor?ext=heatmap)
 
-![](https://leetcard.jacoblin.cool/abhijeetkcyf3?ext=heatmap)
+![](https://gfgstatscard.vercel.app/abhijeetkcyf3?theme=light)
