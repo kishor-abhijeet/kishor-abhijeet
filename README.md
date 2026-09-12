@@ -1,5 +1,7 @@
 <!-- ===================================================== -->
+
 <!--                    PROFILE HEADER                     -->
+
 <!-- ===================================================== -->
 
 <div align="center">
@@ -30,18 +32,12 @@
 
 </div>
 
+👨‍💻 About Me
 
-<!-- ===================================================== -->
-<!--                       ABOUT ME                        -->
-<!-- ===================================================== -->
+I'm a Computer Science undergraduate and aspiring Software Development Engineer who enjoys turning ideas into useful, scalable applications.
 
-## 👨‍💻 About Me
+I primarily work with the MERN stack, practice Data Structures & Algorithms, and explore Generative AI and RAG-based applications.
 
-I'm a **Computer Science undergraduate and aspiring Software Development Engineer** who enjoys turning ideas into useful, scalable applications.
-
-I primarily work with the **MERN stack**, practice **Data Structures & Algorithms**, and explore **Generative AI and RAG-based applications**.
-
-```javascript
 const abhijeet = {
     role: "Aspiring Software Development Engineer",
     education: "B.Tech in Computer Science & Engineering",
@@ -72,62 +68,119 @@ const abhijeet = {
 
     mindset: "Build → Learn → Improve → Repeat 🚀"
 };
-<!-- ===================================================== --> <!-- WHAT I DO --> <!-- ===================================================== -->
+
 ⚡ What I Do
-<table> <tr> <td width="50%">
+
+<table>
+<tr>
+<td width="50%">
+
 💻 Software Development
+
 Full-stack web applications
+
 RESTful APIs
+
 Authentication & authorization
+
 Database design
+
 Responsive interfaces
-</td> <td width="50%">
+
+</td>
+
+<td width="50%">
+
 🧠 Problem Solving
+
 Data Structures & Algorithms
+
 Competitive Programming
+
 LeetCode
+
 GeeksForGeeks
+
 Algorithmic problem solving
-</td> </tr> <tr> <td width="50%">
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 🤖 AI Engineering
+
 Generative AI
+
 LLM APIs
+
 Embeddings
+
 RAG
+
 AI-powered applications
-</td> <td width="50%">
+
+</td>
+
+<td width="50%">
+
 🔧 Engineering
+
 Git & GitHub
+
 Linux
+
 Postman
+
 Docker
+
 Backend architecture
-</td> </tr> </table> <!-- ===================================================== --> <!-- TECH STACK --> <!-- ===================================================== -->
+
+</td>
+</tr>
+</table>
+
 🛠️ Tech Stack
+
 <div align="center">
+
 Languages
+
 <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript"/>
 
 <br><br>
 
 Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite"/>
 
 <br><br>
 
 Backend & Database
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
 
 <br><br>
 
 Tools
+
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,npm,docker"/>
 
 <br><br>
 
 Generative AI
-<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=google-gemini&logoColor=8AB4F8"/> <img src="https://img.shields.io/badge/LLMs-172554?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-0369A1?style=for-the-badge"/> <img src="https://img.shields.io/badge/Embeddings-075985?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangChain-1C1917?style=for-the-badge"/> </div> <!-- ===================================================== --> <!-- FEATURED PROJECTS --> <!-- ===================================================== -->
+
+<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=google-gemini&logoColor=8AB4F8"/>
+<img src="https://img.shields.io/badge/LLMs-172554?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0369A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-075985?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C1917?style=for-the-badge"/>
+
+</div>
+
 🚀 Featured Projects
+
 🤖 AI GitHub Profile Analyzer
 
 Analyze GitHub profiles and generate an AI-powered professional summary.
@@ -148,7 +201,10 @@ Tech Stack
 
 React Node.js Express.js MongoDB GitHub API Gemini API
 
-<a href="https://github.com/kishor-abhijeet/AI-GitHub-Profile-Analyzer"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github"/> </a>
+<a href="https://github.com/kishor-abhijeet/AI-GitHub-Profile-Analyzer">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github"/>
+</a>
+
 💼 LocalHire
 
 A hyperlocal job platform connecting job seekers with employers based on location.
@@ -177,7 +233,10 @@ My Contribution
 
 Designed database schemas/models for core entities and contributed to the backend architecture.
 
-<a href="https://github.com/kishor-abhijeet/local_hire_platform"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github"/> </a>
+<a href="https://github.com/kishor-abhijeet/local_hire_platform">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github"/>
+</a>
+
 🔄 Unit & Currency Converter
 
 A responsive React application for converting units and currencies.
@@ -185,21 +244,42 @@ A responsive React application for converting units and currencies.
 Features
 
 📏 Length
+
 ⚖️ Weight
+
 ⏱️ Time
+
 🌡️ Temperature
+
 💱 Currency
+
 🔁 Unit swapping
+
 ⚡ API caching
+
 📱 Responsive design
 
 Tech Stack
 
 React Vite JavaScript Tailwind CSS REST API
 
-<a href="https://unit-and-currency-converter.vercel.app/"> <img src="https://img.shields.io/badge/LIVE%20DEMO-0369A1?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <!-- ===================================================== --> <!-- PROBLEM SOLVING --> <!-- ===================================================== -->
+<a href="https://unit-and-currency-converter.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-0369A1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 🧠 Problem Solving
-<div align="center"> <h3>🔥 800+ DSA Problems Solved</h3> <a href="https://leetcode.com/abhijeet_kishor/"> <img src="https://img.shields.io/badge/LeetCode-800%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> <a href="https://www.geeksforgeeks.org/user/abhijeetkcyf3/"> <img src="https://img.shields.io/badge/GeeksForGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a>
+
+<div align="center">
+
+<h3>🔥 800+ DSA Problems Solved</h3>
+
+<a href="https://leetcode.com/abhijeet_kishor/">
+<img src="https://img.shields.io/badge/LeetCode-800%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/abhijeetkcyf3/">
+<img src="https://img.shields.io/badge/GeeksForGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
 <br><br>
 
@@ -207,22 +287,37 @@ React Vite JavaScript Tailwind CSS REST API
 
 <br><br>
 
-<img src="https://gfgstatscard.vercel.app/abhijeetkcyf3?theme=dark"/> </div> <!-- ===================================================== --> <!-- GITHUB STATS --> <!-- ===================================================== -->
+<img src="https://gfgstatscard.vercel.app/abhijeetkcyf3?theme=dark"/>
+
+</div>
+
 📊 GitHub Analytics
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kishor-abhijeet&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=kishor-abhijeet&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishor-abhijeet&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishor-abhijeet&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=kishor-abhijeet&theme=tokyonight&hide_border=true"/>
+<img
+src="https://streak-stats.demolab.com?user=kishor-abhijeet&theme=tokyonight&hide_border=true"/>
 
-</div> <!-- ===================================================== --> <!-- CONTRIBUTION GRAPH --> <!-- ===================================================== -->
+</div>
+
 📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishor-abhijeet&theme=tokyo-night&hide_border=true&area=true"/> </div> <!-- ===================================================== --> <!-- CURRENTLY LEARNING --> <!-- ===================================================== -->
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishor-abhijeet&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
 🌱 Currently Learning
+
                     SOFTWARE ENGINEERING
                             │
              ┌──────────────┼──────────────┐
@@ -239,23 +334,35 @@ React Vite JavaScript Tailwind CSS REST API
              └──────────────┼──────────────┘
                             ▼
                     SCALABLE APPLICATIONS
+
 🔭 Exploring
+
 Backend Development
+
 REST API Architecture
+
 System Design
+
 Docker & Cloud
+
 Generative AI
+
 Retrieval Augmented Generation
+
 Embeddings
+
 Vector Databases
+
 AI-powered Applications
-<!-- ===================================================== --> <!-- DEVELOPER QUOTE --> <!-- ===================================================== -->
+
 💡 Developer Philosophy
+
 <div align="center">
 
 "Don't just learn technology. Build something with it."
 
 <br>
+
         Learn
           ↓
         Build
@@ -267,19 +374,39 @@ AI-powered Applications
         Improve
           ↓
         Repeat 🚀
-</div> <!-- ===================================================== --> <!-- CONNECT --> <!-- ===================================================== -->
+
+</div>
+
 🤝 Let's Connect
-<div align="center"> <a href="https://github.com/kishor-abhijeet"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/abhijeet-kishor-0889a3268/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://x.com/abhijeetkibr29"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/> </a>
+
+<div align="center">
+
+<a href="https://github.com/kishor-abhijeet">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhijeet-kishor-0889a3268/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/abhijeetkibr29">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
 <br><br>
 
 📫 Open to Software Development opportunities, collaboration and interesting projects.
 
-</div> <!-- ===================================================== --> <!-- FOOTER --> <!-- ===================================================== --> <div align="center"> <br>
+</div>
+
+<div align="center">
+
 ⚡ Fun Fact
 
 Always eager to accept change — just don't forget to git commit the changes 😂
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0369a1,50:172554,100:0f172a"/> </div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0369a1,50:172554,100:0f172a"/>
+
+</div>
