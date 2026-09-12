@@ -5,13 +5,13 @@
 <div align="center">
 
   <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=ABHIJEET%20KISHOR&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20%7C%20GENAI%20%7C%20DSA&descSize=16&descAlignY=58&animation=twinkling&color=0:090d16,35:0f172a,70:1e3a8a,100:0284c7" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=ABHIJEET%20KISHOR&fontSize=52&fontColor=f8fafc&fontAlignY=35&desc=ASPIRING%20SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20%7C%20GENAI%20%7C%20DSA&descSize=16&descAlignY=58&animation=twinkling&color=0:1a0507,35:450a0a,70:881337,100:be123c" width="100%" />
 
   <br>
 
   <!-- Typing Effect Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer+%26+Full-Stack+Developer+%F0%9F%9A%80;Solving+800%2B+DSA+Problems+on+LeetCode+%26+GFG+%F0%9F%A7%A0;Building+AI%2FGenAI+%26+RAG+Applications+%F0%9F%A4%96;Architecting+Scalable+Backend+Systems+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer+%26+Full-Stack+Developer+%F0%9F%9A%80;Solving+800%2B+DSA+Problems+on+LeetCode+%26+GFG+%F0%9F%A7%A0;Building+AI%2FGenAI+%26+RAG+Applications+%F0%9F%A4%96;Architecting+Scalable+Backend+Systems+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -329,6 +329,6 @@ Focusing efforts on distributed architecture and modern machine learning integra
 
   <br><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0369a1,40:1e3a8a,70:0f172a,100:090d16&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:be123c,40:881337,70:450a0a,100:1a0507&animation=fadeIn" width="100%"/>
 
 </div>
